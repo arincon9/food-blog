@@ -8,7 +8,7 @@ body {
   body:before {
     content: '';
     display: block;
-    background: linear-gradient(90deg, #006847 0%, #ffffff 60%, #CE1126 100%);
+    background: linear-gradient(90deg, #006847 0%, #ffffff 60%, #ce1126 100%);
     height: 10px;
     width: 100%; }
 
@@ -510,7 +510,7 @@ label {
 .form {
   background: white;
   padding: 2rem;
-  box-shadow: linear-gradient(90deg, #006847 0%, #ffffff 60%, #CE1126 100%); }
+  box-shadow: linear-gradient(90deg, #006847 0%, #ffffff 60%, #ce1126 100%); }
   .form + .form {
     margin-top: 4rem; }
   .form h2 {
@@ -641,7 +641,7 @@ label {
     .nav__link:hover, .nav__link--active {
       border-bottom-color: rgba(0, 0, 0, 0.2);
       border-right-color: rgba(0, 0, 0, 0.05);
-      background: linear-gradient(90deg, #006847 0%, #ffffff 60%, #CE1126 100%) fixed; }
+      background: linear-gradient(90deg, #006847 0%, #ffffff 60%, #ce1126 100%) fixed; }
       .nav__link:hover svg, .nav__link--active svg {
         -ms-transform: scale(1.2);
             transform: scale(1.2); }
@@ -773,7 +773,7 @@ label {
     width: 100%;
     top: 0;
     right: 0;
-    background: linear-gradient(90deg, #006847 0%, #ffffff 60%, #CE1126 100%);;
+    background: linear-gradient(45deg, #05b3d6 0%, rgba(5, 179, 214, 0) 70%), linear-gradient(135deg, #0958ec 10%, rgba(9, 88, 236, 0) 80%), linear-gradient(225deg, #d209ec 10%, rgba(210, 9, 236, 0) 80%), linear-gradient(315deg, #05e129 100%, rgba(5, 225, 41, 0) 70%);
     opacity: 0.6;
     z-index: 1;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
@@ -955,7 +955,7 @@ label {
     left: 0;
     content: '';
     display: block;
-    background: linear-gradient(90deg, #006847 0%, #ffffff 60%, #CE1126 100%);
+    background: linear-gradient(0, #006847 0%, #ffffff 60%, #ce1126 100%);
     position: absolute;
     height: 100%;
     background-attachment: fixed; }
